@@ -52,10 +52,10 @@ module.exports = {
         link: 'https://www.recoluan.com'
       },
       {
-        title: 'vuepress-theme-reco',
-        desc: 'A simple and beautiful vuepress Blog & Doc theme.',
-        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        link: 'https://vuepress-theme-reco.recoluan.com'
+        title: '小田的邮箱',
+        desc: '有志者事竟成：Where there is a will, there is a way.',
+        avatar: "/avatar.png",
+        link: 'https://mail.163.com/js6/main.jsp?sid=SDVmkFGiVJKfRqZZVwiiNLTsBzCIsrYm&df=mail163_letter#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%2251%3A1tbiMwgtM1XmCHYQtwAAsP%22%2C%22fid%22%3A1%7D'
       },
     ],
     logo: '/logo.png',
