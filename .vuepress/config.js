@@ -46,16 +46,16 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '午后南杂',
+        title: '小田的bilibili',
         desc: 'Enjoy when you can, and endure when you must.',
-        email: '1156743527@qq.com',
-        link: 'https://www.recoluan.com'
+        email: '1812742551@qq.com',
+        link: 'https://space.bilibili.com/434902896'
       },
       {
-        title: '小田的邮箱',
+        title: '小田的GitHub',
         desc: '有志者事竟成：Where there is a will, there is a way.',
-        avatar: "/Email-photo.jpg",
-        link: 'https://mail.163.com/js6/main.jsp?sid=SDVmkFGiVJKfRqZZVwiiNLTsBzCIsrYm&df=mail163_letter#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%2251%3A1tbiMwgtM1XmCHYQtwAAsP%22%2C%22fid%22%3A1%7D'
+        avatar: "/avatar.png",
+        link: 'https://github.com/xiaotian8848'
       },
     ],
     logo: '/logo.png',
@@ -71,7 +71,7 @@ module.exports = {
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    record: 'xxxx',
+    record: 'https://www.recoluan.com',
     // 项目开始时间
     startYear: '2017'
     /**
