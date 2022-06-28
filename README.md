@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 小田同学
-tagline: 安能摧眉折腰事权贵，使我不得开心颜!
+tagline: 最喜欢的女朋友是俊俊！最丑！！！
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
